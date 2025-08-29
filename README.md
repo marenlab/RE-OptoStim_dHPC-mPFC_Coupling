@@ -1,4 +1,4 @@
-# # Theta-paced stimulation of the thalamic nucleus reuniens en- trains mPFC-HPC oscillations and facilitates the acquisition of extinction memories
+# Theta-paced stimulation of the thalamic nucleus reuniens en- trains mPFC-HPC oscillations and facilitates the acquisition of extinction memories
 
 **Authors**  
 Flávio Afonso Gonçalves Mourão¹, Tuğçe Tuna², Stephen Maren¹³*
@@ -17,4 +17,4 @@ Research project conducted at the Beckman Institute for Advanced Science and Tec
 
 ---
 
-https://www.biorxiv.org/content/10.1101/2025.08.15.670624v2
+https://www.biorxiv.org/content/10.1101/2025.08.15.670624v
