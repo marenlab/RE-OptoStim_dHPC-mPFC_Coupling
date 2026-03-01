@@ -13,7 +13,7 @@ Tuğçe Tuna², Flávio Afonso Gonçalves Mourão¹, Stephen Maren¹³*
 ---
 
 **Project**  
-This research project was conducted at the Maren Lab, Department of Psychological and Brain Sciences, Texas A&M University, and at the Beckman Institute for Advanced Science and Technology, as part of Tuğçe Tuna’s PhD program
+This research project was conducted at the Maren Lab, Department of Psychological and Brain Sciences, Texas A&M University, and at the Beckman Institute for Advanced Science and Technology, as part of Tuğçe Tuna’s PhD.
 
 ---
 
