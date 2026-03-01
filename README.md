@@ -17,7 +17,7 @@ This research project was conducted at the Maren Lab, Department of Psychologica
 
 ---
 
-DOI: http://10.1016/j.brs.2025.11.011
+DOI: [http://10.1016/j.brs.2025.11.011](https://doi.org/10.1016/j.brs.2025.11.011)
 
 ---
 
